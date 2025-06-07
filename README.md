@@ -1,6 +1,6 @@
 # ⭐ Pattern printing
 
-Using python's `for` loop and string multiplication feature, printing three kinds of patterns using `\*` symbol.
+Using python's `for` loop and string multiplication feature, printing three kinds of patterns using `*` symbol.
 
 ## 1. Lower Triangle
 
